@@ -8,6 +8,11 @@ LABEL := "BigBrother"
 #[BeginProject]SOURCE := "\\BigBrother.jcp" #[EndProject]
 
 ! Start Last Document Structure
+#[BeginFile]SOURCE := "\\Atividade.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Caracteristicas.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Participante.java" #[EndFile]
+#[BeginFile]SOURCE := "\\BlackBoard.java" #[EndFile]
+#[BeginFile]SOURCE := "\\agentTarefa.java" #[EndFile]
 #[BeginFile]SOURCE := "\\BigBrother.java" #[EndFile]
 
 ! Start Breakpoint Structure

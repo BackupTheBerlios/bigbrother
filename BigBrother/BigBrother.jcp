@@ -17,5 +17,10 @@ COMPILER := ""
 LABEL := "Root"
 FILTER := ""
 
+#[BeginFile]SOURCE := "\\BlackBoard.java" #[EndFile]
 #[BeginFile]SOURCE := "\\BigBrother.java" #[EndFile]
+#[BeginFile]SOURCE := "\\agentTarefa.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Atividade.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Caracteristicas.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Participante.java" #[EndFile]
 #[EndFolder]
