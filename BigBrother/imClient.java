@@ -93,7 +93,7 @@ public class imClient extends JFrame {
    	public void runClient() 
    	{
       	try {
-        	// Cria um socket e conecta ao servidor
+        		/* Cria um socket e conecta ao servidor */
          		display.setText( "Attempting connection\n" );
          		client = new Socket( 
             	InetAddress.getByName( endServer ), 5000 );
